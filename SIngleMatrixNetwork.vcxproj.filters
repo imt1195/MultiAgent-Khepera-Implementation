@@ -35,5 +35,7 @@
   </ItemGroup>
   <ItemGroup>
     <Text Include="ReadMe.txt" />
+    <Text Include="TextFile1.txt" />
+    <Text Include="jacktesta.txt" />
   </ItemGroup>
 </Project>
