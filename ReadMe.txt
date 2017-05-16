@@ -1,5 +1,5 @@
 ========================================================================
-       CONSOLE APPLICATION : SIngleMatrixNetwork
+       CONSOLE APPLICATION : MultiAgent-Khepera-Implementation
 ========================================================================
 
 
@@ -31,4 +31,11 @@ Other notes:
 AppWizard uses "TODO:" to indicate parts of the source code you
 should add to or customize.
 
+/////////////////////////////////////////////////////////////////////////////
+
+/////////////////////////////////////////////////////////////////////////////
+Fall 2016:
+A network has been made to test and compare how the single matrix network works
+in an environment with static obstacles and in an environment with dynamic,
+moving obstacles.
 /////////////////////////////////////////////////////////////////////////////
