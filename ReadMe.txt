@@ -38,4 +38,6 @@ Fall 2016:
 A network has been made to test and compare how the single matrix network works
 in an environment with static obstacles and in an environment with dynamic,
 moving obstacles.
+
+All testing files created starts with Ian_Test_...
 /////////////////////////////////////////////////////////////////////////////
